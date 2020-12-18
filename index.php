@@ -343,7 +343,7 @@ img {vertical-align: middle;}
 
 .parallax{
     /* The image used */
-    background-image: url("public/image/front3.png");
+    background-image: url("public/image/front4.png");
 
 /* Full height */
 height:600px; 
