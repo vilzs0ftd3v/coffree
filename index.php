@@ -371,7 +371,7 @@ h3{
     
 <div class="topnav" id="myTopnav">
     
-   <img src = "public/image/logo5.png" id="logo_id">    
+   <img src = "public/image/logo6.png" id="logo_id">    
    <a href="#about" id = "new_id">About</a>
   <div class="dropdown">
     <button class="dropbtn">Menu 
